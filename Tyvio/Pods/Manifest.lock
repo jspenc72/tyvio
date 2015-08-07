@@ -1,0 +1,13 @@
+PODS:
+  - LLSimpleCamera (3.0.0)
+  - LLVideoEditor (1.0.0)
+
+DEPENDENCIES:
+  - LLSimpleCamera (~> 3.0)
+  - LLVideoEditor (~> 1.0)
+
+SPEC CHECKSUMS:
+  LLSimpleCamera: 3c41b46917f9ca53b91ef9c0cf24a75ce0ab4cd8
+  LLVideoEditor: f287ea4a532dade2b40ba042c80bf76a546325e5
+
+COCOAPODS: 0.38.2
